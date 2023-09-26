@@ -6,7 +6,35 @@ body{
     background-color: #fdfdf5;
 }
 
+/* Barra de navegacion */
 nav {
    background-color: #F4DADB;
 }
 
+/* Catalogo */
+main h1{
+    text-align: center;
+}
+
+.card{
+    margin: 20px;
+    background-color: #F4DADB;
+}
+
+/* Pie de pagina*/
+#redes-sociales{
+    display: flex;
+    justify-content: space-between;
+}
+
+#redes-sociales img{
+    width: 40px;
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#copyright{
+    text-align: center;
+    
+}
