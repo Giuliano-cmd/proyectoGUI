@@ -21,6 +21,10 @@ main h1{
     background-color: #F4DADB;
 }
 
+.btn{
+    background-color: #dbe9b6;
+}
+
 /* Pie de pagina*/
 #redes-sociales{
     display: flex;
