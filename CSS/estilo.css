@@ -3,12 +3,14 @@
     
 }
 body{
-    background-color: #fdfdf5;
+    background: rgb(238,156,167);
+    background: linear-gradient(90deg, rgba(238,156,167,1) 0%, rgba(255,221,225,1) 100%);
 }
 
 /* Barra de navegacion */
 nav {
-   background-color: #F4DADB;
+    background: rgb(238,156,167);
+    background: linear-gradient(90deg, rgba(238,156,167,1) 0%, rgba(255,221,225,1) 100%);
 }
 
 /* Catalogo */
